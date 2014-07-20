@@ -1,0 +1,7 @@
+[user]
+	name = uzura
+	email = uzura_contact@yahoo.co.jp
+[color]
+	ui = auto
+[core]
+    excludesfile = ~/.gitignore
