@@ -1,7 +1,8 @@
-####################
-#開発環境構築(未テスト)     #
-# $brew bundle ~/Brewfile #
-####################
+###################################
+# homebrew-caskで開発環境構築 
+# $ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+# $brew bundle Brewfile
+####################################
 #caskでいれたソフトがalfredに表示されない問題あり
 ### Make sure using latest Homebrew
 update
