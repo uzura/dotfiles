@@ -29,6 +29,7 @@ cask install openoffice
 cask install skype
 cask install dropbox
 cask install sublime-text
+cask install mou
 cask install transmit
 cask install seil
 cask install karabiner
