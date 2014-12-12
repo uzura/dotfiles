@@ -1,7 +1,12 @@
 ###################################
 # homebrew-caskで開発環境構築 
 # $ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+#
+# インストール
 # $brew bundle Brewfile
+# 上記brew bundleコマンドは廃止されたみたいなので、
+# $brew cask install kobito
+# みたいにしてインストールしていく。
 ####################################
 #caskでいれたソフトがalfredに表示されない問題あり
 ### Make sure using latest Homebrew
@@ -34,6 +39,7 @@ cask install transmit
 cask install seil
 cask install karabiner
 cask install startninja
+cask install kobito
 cask install --appdir=/Applications java
 #cask install --appdir=/Applications java7
 cask install --appdir=/Applications eclipse-ide
