@@ -1,5 +1,6 @@
 ###################################
 # homebrew-caskで開発環境構築 
+# http://wada811.blogspot.com/2014/05/brewfile-homebrew-cask.html
 # $ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
 #
 # インストール
