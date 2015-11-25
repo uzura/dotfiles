@@ -1,4 +1,5 @@
 #プロンプトに現在のブランチを表示する
+# http://qiita.com/varmil/items/9b0aeafa85975474e9b6
 source ~/.git-completion.bash
 source ~/.git-prompt.sh
 GIT_PS1_SHOWDIRTYSTATE=true
